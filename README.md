@@ -129,7 +129,7 @@ I’m an **introverted extrovert** — I love deep focus and quiet learning, but
 
 ## 🐍 Contribution Snake (Animated)
 
-![Contribution Snake](https://raw.githubusercontent.com/Bahati-bk/Bahati-bk/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Bahati-bk/Bahati-bk/main/output/github-contribution-grid-snake.svg)
 
 
 
