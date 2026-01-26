@@ -91,7 +91,7 @@ I’m passionate about using technology to solve real-world problems. I enjoy wo
 
 
 
-## 📊 GitHub Stats (Auto-Updating)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bahati-bk&show_icons=true&theme=tokyonight" height="180"/>
@@ -127,9 +127,9 @@ I’m an **introverted extrovert** — I love deep focus and quiet learning, but
 
 
 
-## 🐍 Contribution Snake (Animated)
+<!-- ## 🐍 Contribution Snake (Animated)
 
-![Contribution Snake](https://raw.githubusercontent.com/Bahati-bk/Bahati-bk/main/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Bahati-bk/Bahati-bk/main/output/github-contribution-grid-snake.svg) -->
 
 
 
