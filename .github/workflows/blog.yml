@@ -1,0 +1,27 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update_blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run blog updater
+        run: python update_blog.py
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Update latest blog posts" || echo "No changes to commit"
+          git push
