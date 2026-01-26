@@ -4,14 +4,14 @@
 </div>
 <!-- ✨ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=24&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Data+Science+%26+ML+Enthusiast;Web3+Explorer;Learning+in+Public+%F0%9F%92%97" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=24&center=true&vCenter=true&width=700&lines=Learning+Every+Day+%F0%9F%8C%B1;Building+Cool+Projects+%F0%9F%92%BB;Exploring+Web3+%F0%9F%8C%90;Teaching+%26+Sharing+%E2%9C%8D%EF%B8%8F;Data+Science+Explorer;Machine+Learning+Enthusiast;Web3+Explorer;Tech+Explorer+%F0%9F%8C%B8;ML+%26+AI+Lover+%F0%9F%A4%96;Web3+Experimenter+%F0%9F%8C%90;Learning+in+Public+%E2%9C%8D%EF%B8%8F" />
 </p>
 
 
 
 ## 👋 Hi there, I’m Bahati 👩🏽‍💻
 
-💡 **Aspiring Software Engineer | Data Science & Machine Learning Enthusiast | Web3 Explorer**  
+💡 **Software Engineer in the making | Data Science & Machine Learning Enthusiast | Web3 Explorer**  
 I’m passionate about using technology to solve real-world problems. I enjoy working with data, building intelligent systems, and exploring decentralized technologies.
 
 🌱 I strongly believe in **learning in public** — documenting my journey, teaching what I learn, and growing with the community.
