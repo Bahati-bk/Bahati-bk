@@ -1,4 +1,4 @@
-name: Snake + Latest Blog Posts
+name: Contribution Snake
 
 on:
   schedule:
@@ -18,11 +18,11 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
   # 📝 Latest Blog Posts
-  blog:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Update Latest Blog Posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://godfident-data.hashnode.dev/rss.xml"
+  #blog:
+  #  runs-on: ubuntu-latest
+    #steps:
+      #- uses: actions/checkout@v3
+      #- name: Update Latest Blog Posts
+      #  uses: gautamkrishnar/blog-post-workflow@master
+       # with:
+        #  feed_list: "https://godfident-data.hashnode.dev/rss.xml"
