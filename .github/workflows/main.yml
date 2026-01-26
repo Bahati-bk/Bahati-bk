@@ -1,15 +1,28 @@
-name: Contribution Snake
+name: Snake + Latest Blog Posts
+
 on:
   schedule:
     - cron: "0 */12 * * *" # runs every 12 hours
   workflow_dispatch:
 
 jobs:
-  build:
+
+  # 🐍 Contribution Snake
+  snake:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Generate Snake
+      - name: Generate Contribution Snake
         uses: Platane/snk@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+  # 📝 Latest Blog Posts
+  blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Latest Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://godfident-data.hashnode.dev/rss.xml"
