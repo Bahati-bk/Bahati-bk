@@ -98,9 +98,12 @@ I’m passionate about using technology to solve real-world problems. I enjoy wo
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bahati-bk&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bahati-bk&theme=tokyonight)
-</p>
+<div align="center">
+  <!-- GitHub Streak (Using demolab.com for guaranteed rendering) -->
+  <img src="https://streak-stats.demolab.com?user=Bahati-bk&theme=tokyonight" height="180"/>
+
+</div>
+
 
 
 ## 🚀 Projects
