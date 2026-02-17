@@ -116,10 +116,26 @@ I’m passionate about using technology to solve real-world problems. I enjoy wo
 
 ## 💞️ Open to Collaborate On
 
-💖 Data Science & Machine Learning projects  
-💖 Beginner-friendly AI & analytics projects  
-💖 Web3 / Blockchain learning projects  
-💖 Open-source & community-driven initiatives  
+💖 **Data Science & Machine Learning Projects** – AI-powered apps, predictive models, analytics dashboards  
+💖 **Beginner-friendly AI & Analytics Projects** – tutorials, mentorship, and projects that help others get started  
+💖 **Web3 / Blockchain Learning Projects** – smart contracts, NFTs, decentralized apps, and community experiments  
+💖 **Open-source & Community-driven Initiatives** – meaningful contributions that impact people and the ecosystem  
+💖 **Full-stack & Backend Projects** – APIs, Flask/FastAPI apps, PostgreSQL integration, and end-to-end solutions  
+
+
+
+### ⚡ How to Collaborate
+
+- **GitHub Pull Requests** – love code contributions & feature ideas  
+- **Discussion / Ideas** – open to brainstorming, learning together, or mentoring  
+- **Project Partnerships** – small or medium-scale projects where we can ship results fast  
+
+
+
+### ✨ Quick Pitch
+
+I’m **Bahati**, an AI + Backend enthusiast, constantly exploring ways to turn data into insights and apps into solutions.  
+If your project aligns with any of the above, **let’s connect and build something awesome!**
 
 
 
