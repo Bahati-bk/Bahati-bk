@@ -94,10 +94,21 @@ I’m passionate about using technology to solve real-world problems. I enjoy wo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bahati-bk&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahati-bk&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bahati-bk&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bahati-bk&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+<p align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bahati-bk&theme=tokyonight)
+</p>
+
+
+## 🚀 Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| DriftGuard-AI | ML & AI project for anomaly detection | [GitHub](https://github.com/Bahati-bk/driftguard-ai) |
+| Tour & Travels App | Flask web app with PostgreSQL backend | [GitHub](https://github.com/Bahati-bk/tour-travel-app) |
 
 
 ## 💞️ Open to Collaborate On
@@ -125,7 +136,7 @@ She / Her 💗
 ## ⚡ Fun Fact
 I’m an **introverted extrovert** — I love deep focus and quiet learning, but I also enjoy meaningful collaboration and tech conversations 🤍
 
-
+![](https://komarev.com/ghpvc/?username=Bahati-bk&color=blueviolet)
 
 <!-- ## 🐍 Contribution Snake (Animated)
 
