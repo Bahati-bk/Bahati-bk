@@ -9,25 +9,25 @@
 
 
 
-## 👋 Hi there, I’m Bahati 👩🏽‍💻
+## Hi there, I’m Bahati 👩🏽‍💻
 
-💡 **Software Engineer in the making | Data Science & Machine Learning Enthusiast | Web3 Explorer**  
+**Software Engineer in the making | Data Science & Machine Learning Enthusiast | Web3 Explorer**  
 I’m passionate about using technology to solve real-world problems. I enjoy working with data, building intelligent systems, and exploring decentralized technologies.
 
-🌱 I strongly believe in **learning in public** — documenting my journey, teaching what I learn, and growing with the community.
+I strongly believe in learning in public, documenting my journey, teaching what I learn, and growing with the community.
 
 
 
-## ✍🏽 My Learning Blog (Come Learn With Me 💖)
+## My Learning Blog (Come Learn With Me 💖)
 
-📖 I write about **Data Science, Machine Learning, Web3, and my tech learning journey**, breaking down concepts in a beginner-friendly way.
+I write about Data Science, Machine Learning, AI, Web3, and my tech learning journey, breaking down concepts in a beginner-friendly way.
 
-✨ If you enjoy:
+If you enjoy:
 - Learning step-by-step  
 - Real project breakdowns  
 - Growing alongside someone on the same journey  
 
-👉 **Read my blog:**  
+**Read my blog:**  
 🌸 **https://godfident-data.hashnode.dev**
 
 ![Hashnode](https://img.shields.io/badge/Hashnode-Blog-FF69B4?style=for-the-badge&logo=hashnode&logoColor=white)
@@ -36,22 +36,22 @@ I’m passionate about using technology to solve real-world problems. I enjoy wo
 
 
 
-## 📝 Latest Blog Posts ✨
+## Latest Blog Posts ✨🌸
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-🌸 More posts → **https://godfident-data.hashnode.dev**
+Read the posts here → **https://godfident-data.hashnode.dev**
 
 
 
-## 🚀 Tech Interests & Focus Areas
+## Tech Interests & Focus Areas
 
-✨ 📊 **Data Science & Analytics**  
-✨ 🤖 **Machine Learning & AI**  
-✨ 🌐 **Web3 & Blockchain Technologies**  
-✨ 💻 **Software Engineering Fundamentals**  
-✨ 🧠 **Problem Solving & Algorithms**
+📊 **Data Science & Analytics**
+🤖 **Machine Learning & AI**
+🌐 **Web3 & Blockchain Technologies**
+💻 **Software Engineering Fundamentals**
+🧠 **Problem Solving & Algorithms**
 
 
 
@@ -114,7 +114,7 @@ I’m passionate about using technology to solve real-world problems. I enjoy wo
 | Tour & Travels App | Flask web app with PostgreSQL backend | [GitHub](https://github.com/Bahati-bk/tour-travel-app) |
 
 
-## 💞️ Open to Collaborate On
+## Open to Collaborate On 💞️ 
 
 💖 **Data Science & Machine Learning Projects** – AI-powered apps, predictive models, analytics dashboards  
 💖 **Beginner-friendly AI & Analytics Projects** – tutorials, mentorship, and projects that help others get started  
@@ -124,7 +124,7 @@ I’m passionate about using technology to solve real-world problems. I enjoy wo
 
 
 
-### ⚡ How to Collaborate
+### How to Collaborate⚡ 
 
 - **GitHub Pull Requests** – love code contributions & feature ideas  
 - **Discussion / Ideas** – open to brainstorming, learning together, or mentoring  
@@ -132,14 +132,14 @@ I’m passionate about using technology to solve real-world problems. I enjoy wo
 
 
 
-### ✨ Quick Pitch
+### Quick Pitch ✨ 
 
-I’m **Bahati**, an AI + Backend enthusiast, constantly exploring ways to turn data into insights and apps into solutions.  
-If your project aligns with any of the above, **let’s connect and build something awesome!**
+I’m Bahati, an AI + Machine enthusiast, constantly exploring ways to turn data into insights and apps into solutions.  
+If your project aligns with any of the above, let’s connect and build something awesome!
 
 
 
-## 📫 How to Reach Me
+## How to Reach Me 📫 
 
 📧 **Email:** [bahatibk72@gmail.com](mailto:bahatibk72@gmail.com)  
 💼 **GitHub:** https://github.com/Bahati-bk  
@@ -147,13 +147,13 @@ If your project aligns with any of the above, **let’s connect and build someth
 
 
 
-## 😄 Pronouns
+## Pronouns 😄 
 She / Her 💗
 
 
 
 ## ⚡ Fun Fact
-I’m an **introverted extrovert** — I love deep focus and quiet learning, but I also enjoy meaningful collaboration and tech conversations 🤍
+I’m an introverted extrovert — I love deep focus and quiet learning, but I also enjoy meaningful collaboration and tech conversations 🤍
 
 ![](https://komarev.com/ghpvc/?username=Bahati-bk&color=blueviolet)
 
