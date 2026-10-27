@@ -18,7 +18,9 @@ I strongly believe in learning in public, documenting my journey, teaching what 
 
 
 
+
 ## My Learning Blog (Come Learn With Me 💖)
+
 
 I write about Data Science, Machine Learning, AI, Web3, and my tech learning journey, breaking down concepts in a beginner-friendly way.
 
@@ -106,12 +108,40 @@ Read the posts here → **https://godfident-data.hashnode.dev**
 
 
 
-## 🚀 Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| DriftGuard-AI | ML & AI project for anomaly detection | [GitHub](https://github.com/Bahati-bk/driftguard-ai) |
-| Tour & Travels App | Flask web app with PostgreSQL backend | [GitHub](https://github.com/Bahati-bk/tour-travel-app) |
+## 🚀 Featured Projects
+
+I build practical AI/ML systems, experiment with machine learning research, and develop software products that solve real-world problems.
+
+| Project | Description | Technologies | Links |
+|---|---|---|---|
+|  **DriftGuard AI** | An ML monitoring and anomaly-detection project focused on fraud prediction, data drift detection, and production model reliability. | Python, FastAPI, Scikit-learn, Streamlit, SQL | [GitHub](https://github.com/Bahati-bk/driftguard-ai) |
+|  **AgroShield AI** | An offline-first agricultural AI project exploring cassava disease classification, model optimization, quantization, and mobile inference. | Python, PyTorch, Computer Vision, ONNX Runtime | Repository link coming soon |
+|  **Frank Foods** | A multi-restaurant QR-code ordering platform with customer ordering, kitchen order management, and restaurant administration. | JavaScript, React, Supabase, PostgreSQL, Netlify | [Live Demo](https://frank-foods.netlify.app/) |
+|  **Wulira** | An AI-powered solution developed during an MLH hackathon, exploring how AI can be applied to a practical problem. | AI/ML, Software Engineering | Repository link coming soon |
+|  **EventPulse AI** | An AI-focused hackathon project exploring intelligent event-related workflows and practical AI system development. | AI/ML, Python | Repository link coming soon |
+|  **Cassava Disease Classification** | Agricultural computer vision research involving cassava disease classification, image preprocessing, dataset preparation, and transfer-learning experiments. | Python, TensorFlow, Keras, OpenCV | Research project |
+|  **E-Waste Classification** | Research on automated electronic-waste classification using convolutional neural networks and transfer learning in unconstrained visual environments. | Python, CNNs, Transfer Learning, Computer Vision | Research project |
+|  **Sweet Potato Detection & Phenotyping** | Explored object detection and computer vision for sweet potato variety identification and phenotypic analysis. | Python, YOLOv5, Computer Vision | Research project |
+|  **Tour & Travels App** | A travel and tourism web application with a Flask backend and PostgreSQL database. | Python, Flask, PostgreSQL, HTML, CSS | [GitHub](https://github.com/Bahati-bk/tour-travel-app) |
+|  **ShelfLink** | A pharmacy inventory intelligence product concept focused on expiry-risk prediction, stockout forecasting, and inter-pharmacy stock matching. | AI/ML, Forecasting, SaaS, Data Analytics | Product concept |
+|  **Blockchain Learning & Experiments** | Exploring blockchain fundamentals, cryptography, consensus mechanisms, smart contracts, and practical applications. | Blockchain, Web3, Smart Contracts | More projects coming soon |
+
+
+
+### 🧠 What I'm Building Toward
+
+- **AI Engineering:** Building practical AI-powered applications and intelligent workflows.
+- **Machine Learning Engineering:** Developing, evaluating, and optimizing models for real-world problems.
+- **MLOps:** Exploring model serving, data drift monitoring, reproducibility, deployment, and production reliability.
+- **Applied AI for Africa:** Exploring solutions for agriculture, healthcare, financial services, and other real-world challenges.
+
+
+### 🛠️ Technologies & Tools
+
+`Python` · `TensorFlow` · `PyTorch` · `Scikit-learn` · `FastAPI` · `Flask` · `OpenCV` · `SQL` · `PostgreSQL` · `Git` · `Docker` · `Streamlit` · `ONNX Runtime` · `React` · `Supabase`
+
+
 
 
 ## Open to Collaborate On 💞️ 
@@ -142,7 +172,7 @@ If your project aligns with any of the above, let’s connect and build somethin
 ## How to Reach Me 📫 
 
 📧 **Email:** [bahatibk72@gmail.com](mailto:bahatibk72@gmail.com)  
-💼 **GitHub:** https://github.com/Bahati-bk  
+💼 **LinkedIn:** Bahati Brenda Kizito  
 ✍🏽 **Blog:** https://godfident-data.hashnode.dev  
 
 
